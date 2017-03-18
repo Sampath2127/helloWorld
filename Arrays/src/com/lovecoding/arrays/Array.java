@@ -9,7 +9,7 @@ int j;
 		//printArray(array);
 		return array;
 	}
-	//
+	//comments
 
 	public void printArray(int[] array) {
 		for (int elements : array) {
